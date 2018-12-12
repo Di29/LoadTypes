@@ -1,0 +1,13 @@
+C:\Users\УринбасаровД\source\repos\LoadTypesLesson\LoadTypesLesson\obj\Debug\LoadTypesLesson.csprojAssemblyReference.cache
+C:\Users\УринбасаровД\source\repos\LoadTypesLesson\LoadTypesLesson\obj\Debug\LoadTypesLesson.csproj.CoreCompileInputs.cache
+C:\Users\УринбасаровД\source\repos\LoadTypesLesson\LoadTypesLesson\bin\Debug\LoadTypesLesson.exe.config
+C:\Users\УринбасаровД\source\repos\LoadTypesLesson\LoadTypesLesson\bin\Debug\LoadTypesLesson.exe
+C:\Users\УринбасаровД\source\repos\LoadTypesLesson\LoadTypesLesson\bin\Debug\LoadTypesLesson.pdb
+C:\Users\УринбасаровД\source\repos\LoadTypesLesson\LoadTypesLesson\bin\Debug\EntityFramework.dll
+C:\Users\УринбасаровД\source\repos\LoadTypesLesson\LoadTypesLesson\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\УринбасаровД\source\repos\LoadTypesLesson\LoadTypesLesson\bin\Debug\EntityFramework.xml
+C:\Users\УринбасаровД\source\repos\LoadTypesLesson\LoadTypesLesson\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\УринбасаровД\source\repos\LoadTypesLesson\LoadTypesLesson\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\УринбасаровД\source\repos\LoadTypesLesson\LoadTypesLesson\obj\Debug\LoadTypesLesson.csproj.CopyComplete
+C:\Users\УринбасаровД\source\repos\LoadTypesLesson\LoadTypesLesson\obj\Debug\LoadTypesLesson.exe
+C:\Users\УринбасаровД\source\repos\LoadTypesLesson\LoadTypesLesson\obj\Debug\LoadTypesLesson.pdb
